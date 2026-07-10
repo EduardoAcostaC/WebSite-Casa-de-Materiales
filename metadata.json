@@ -1,0 +1,6 @@
+{
+  "name": "Tlapalería Salcedo",
+  "description": "Premium industrial-grade landing page for Casa de Materiales y Tlapalería Salcedo, showcasing core services, location, customer reviews, and interactive quote request features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
